@@ -18,7 +18,7 @@ export const unreadSlice = createSlice({
   },
 })
 
-// Action creators are generated for each case reducer function
+
 export const { setunread,unsetunread } = unreadSlice.actions
 
 export default unreadSlice.reducer
