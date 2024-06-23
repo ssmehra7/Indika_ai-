@@ -1,8 +1,16 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Assignment
 
-Currently, two official plugins are available:
+## Live Link 
+https://indika-ai-assignment.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+To get started with the project, clone the repository and install the necessary dependencies.
+
+```bash
+git clone https://github.com/ssmehra7/Indika_ai-assignment.git
+cd Indika_ai-assignment
+npm install
+npm run dev
